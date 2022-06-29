@@ -1,1 +1,3 @@
 # Tic-Tac-Toe
+-------------
+Tic Tac Toe using python3 and pygame
